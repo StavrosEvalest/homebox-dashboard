@@ -1,7 +1,7 @@
 # Homebox Dashboard
+Made with NEXT.js 13 (app router)
 ## Getting Started
 
-Made with NEXT.js 13 (app router)
 0. Set the right Node version (check package.json)
 1. Run the development server:
 
