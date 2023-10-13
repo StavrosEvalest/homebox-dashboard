@@ -54,6 +54,11 @@ export default function Header() {
                 Home
               </Link>
             </li>
+            <li>
+              <Link href="/customers" onClick={() => setNavOpen(false)}>
+                Customers
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
