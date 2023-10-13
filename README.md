@@ -1,5 +1,6 @@
 # Homebox Dashboard
-Made with NEXT.js 13 (app router)
+A NEXT.js 13 dashboard boilerplate
+
 ## Getting Started
 
 0. Set the right Node version (check package.json)
@@ -15,3 +16,11 @@ npm run dev
 ```
 
 2. Open [http://localhost:3000](http://localhost:3000) with your browser to load the app.
+
+## Made with:
+
+- NEXT.js 13 (app router)
+- Redux Toolkit
+- Redux Saga
+- Tailwind CSS
+- Infinite scrolling
